@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on meudna.com 
-- 🌱 I’m currently learning gcp
-- 📫 How to reach me: https://www.linkedin.com/in/darleisoares/
+🔭 I’m currently working on meudna.com website
+🌱 I’m currently learning gcp
+📫 How to reach me: https://www.linkedin.com/in/darleisoares/
